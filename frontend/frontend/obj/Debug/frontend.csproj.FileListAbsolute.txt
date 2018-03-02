@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\bin\Debug\frontend.exe.config
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\bin\Debug\frontend.exe
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\bin\Debug\frontend.pdb
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\obj\Debug\frontend.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\obj\Debug\frontend.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\obj\Debug\frontend.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\obj\Debug\frontend.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\obj\Debug\frontend.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\obj\Debug\frontend.exe
+c:\users\user\documents\visual studio 2017\Projects\frontend\frontend\obj\Debug\frontend.pdb

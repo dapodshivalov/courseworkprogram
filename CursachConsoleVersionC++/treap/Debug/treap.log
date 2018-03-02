@@ -1,0 +1,4 @@
+﻿  treap.cpp
+c:\users\user\documents\visual studio 2017\projects\cursachconsoleversionc++\treap\treap.cpp(38): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  treap.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Debug\treap.exe
+  treap.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Debug\treap.pdb (Partial PDB)

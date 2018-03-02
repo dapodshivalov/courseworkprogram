@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Program\bin\Debug\Program.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Program\bin\Debug\Program.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Program\bin\Debug\Program.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Program\obj\Debug\Program.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Program\obj\Debug\Program.pdb
