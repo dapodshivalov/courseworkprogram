@@ -1,7 +1,7 @@
 ﻿  CursachConsoleVersionC.cpp
 c:\users\user\documents\visual studio 2017\projects\cursachconsoleversionc++\tspio\tspio.h(26): warning C4091: static : пропускается слева от "tspio::TSPIO", когда ни одна переменная не объявлена
-c:\users\user\documents\visual studio 2017\projects\cursachconsoleversionc++\cursachconsoleversionc++\cursachconsoleversionc.cpp(116): warning C4101: from: неиспользованная локальная переменная
-c:\users\user\documents\visual studio 2017\projects\cursachconsoleversionc++\cursachconsoleversionc++\cursachconsoleversionc.cpp(116): warning C4101: to: неиспользованная локальная переменная
-c:\users\user\documents\visual studio 2017\projects\cursachconsoleversionc++\cursachconsoleversionc++\cursachconsoleversionc.cpp(115): warning C4101: newStateE: неиспользованная локальная переменная
-  CursachConsoleVersionC++.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Debug\CursachConsoleVersionC++.exe
-  CursachConsoleVersionC++.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Debug\CursachConsoleVersionC++.pdb (Partial PDB)
+c:\users\user\documents\visual studio 2017\projects\courseworkprogram\cursachconsoleversionc++\cursachconsoleversionc++\cursachconsoleversionc.cpp(117): warning C4101: from: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2017\projects\courseworkprogram\cursachconsoleversionc++\cursachconsoleversionc++\cursachconsoleversionc.cpp(117): warning C4101: to: неиспользованная локальная переменная
+c:\users\user\documents\visual studio 2017\projects\courseworkprogram\cursachconsoleversionc++\cursachconsoleversionc++\cursachconsoleversionc.cpp(116): warning C4101: newStateE: неиспользованная локальная переменная
+  CursachConsoleVersionC++.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\courseworkprogram\CursachConsoleVersionC++\Debug\CursachConsoleVersionC++.exe
+  CursachConsoleVersionC++.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\courseworkprogram\CursachConsoleVersionC++\Debug\CursachConsoleVersionC++.pdb (Partial PDB)

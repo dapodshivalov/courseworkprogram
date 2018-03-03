@@ -1,3 +1,3 @@
 ﻿  tspio.cpp
-c:\users\user\documents\visual studio 2017\projects\cursachconsoleversionc++\tspio\tspio.h(26): warning C4091: static : пропускается слева от "tspio::TSPIO", когда ни одна переменная не объявлена
-  tspio.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\CursachConsoleVersionC++\Debug\tspio.lib
+c:\users\user\documents\visual studio 2017\projects\courseworkprogram\cursachconsoleversionc++\tspio\tspio.h(26): warning C4091: static : пропускается слева от "tspio::TSPIO", когда ни одна переменная не объявлена
+  tspio.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\courseworkprogram\CursachConsoleVersionC++\Debug\tspio.lib

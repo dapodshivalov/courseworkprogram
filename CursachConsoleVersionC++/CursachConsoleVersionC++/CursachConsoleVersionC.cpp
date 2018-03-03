@@ -11,7 +11,7 @@ using namespace treaplib;
 
 typedef long long i64;
 
-const double initT = 1000001;
+const double initT = 100001;
 const double minT = 1;
 
 // TODO: 
@@ -104,6 +104,7 @@ void GenSeq(vector < int > &state, int n) {
 }
 
 void PrintStatus(int ind, double e, int from = -1, int to = -1) {
+	system("cls");
 	cout <<"Ind: " <<ind  << " Temp: "<< Temp(ind) << " Energy: " << e << ' ' << from << ' ' << to << endl;
 }
 
@@ -130,7 +131,7 @@ void MainAlgo(vector < pair < double, double > > &g, vector < int > &state) {
 		else {
 			double probability = P(deltaE, curT) * 100;
 			double Godhand = rand() % 101;
-			if (probability > Godhand) {
+			if (probability >= Godhand) {
 				state = newstate;
 				//energy = newStateE;
 				energy = energy + deltaE;
@@ -141,6 +142,7 @@ void MainAlgo(vector < pair < double, double > > &g, vector < int > &state) {
 				//PrintStatus(i, energy);
 			}
 		}
+		PrintStatus(i, energy);
 		curT = Temp(i);
 		if (curT <= minT)
 			break;
@@ -181,14 +183,18 @@ int main(int argc, char *argv[])
 	int n;
 	cin >> n;
 	vector < pair < double, double > > g(n);
-	int a, b, hui;
+	int a, b, ind;
 	for (int i = 0; i < n; i++) {
-		cin >> hui >> a >> b;
+		cin >> ind >> a >> b;
 		g[i].first = a;
 		g[i].second = b;
 	}
 	vector < int > state;
+	
+	
 	MainAlgo(g, state);
+
+
 	cout << "anser =\n";
 	for (int i = 0; i < n; i++) {
 		cout << state[i] << "\n";
